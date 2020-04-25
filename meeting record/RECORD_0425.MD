@@ -6,7 +6,15 @@
 
   2. 멘토링 내용 : 관련 기술 동향 논문 제공(한태화 멘토님), 코드 개선 정보 제공(배재현 멘토님) 
 
+     - 시간 측정해서 칼로리, count 측정하는 방식 적용
      
+     - 서비스 제공을 인공지능으로 할 수 있는 아이디어 서치 필요
+     
+     - 자세는 2 ~ 3 가지 선정해서 집중적으로 정확도 개선
+     
+     - 실시간/영상 출력 서비스 결정 -> 장고(django) 웹서비스 구현해보는 것이 중요
+     
+       
 
 ## 회의 내용
 
@@ -23,7 +31,10 @@
      - [Basic motion detection and tracking with Python and OpenCV](https://www.pyimagesearch.com/2015/05/25/basic-motion-detection-and-tracking-with-python-and-opencv/)
      - [Real-time object detection with deep learning and OpenCV](https://www.pyimagesearch.com/2017/09/18/real-time-object-detection-with-deep-learning-and-opencv/)
    - 기술 구현 계획
+     
      - 각자 웹캠에서 기술 구현 후 개선 사항 스터디 진행
+     
+       
 
 ## 결정사항
 
